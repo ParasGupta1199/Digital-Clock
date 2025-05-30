@@ -8,4 +8,4 @@ Open `index.html` in your browser to see the clock.
 
 ## Live Demo
 
-[View live clock](https://your-username.github.io/digital-clock/)
+[View live clock](https://ParasGupta1199.github.io/digital-clock/)
